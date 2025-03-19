@@ -1,0 +1,41 @@
+1 - existe relação entre o numero de nacimentos/mortes com o PIB da região?
+
+2 - Relação entre a área de cultivo com a área povoada
+
+3 - Média populacional entre as cidades dos integrantes do grupo comparadas com a capital
+
+4 - relação importações exportações com o PIB
+
+5 - média salarial por habitante
+
+6 - existe relação entre essa média salarial com o número de nascimentos?
+
+7 - qtd de empresas com pessoal ocupado
+
+8 - relação entre empresas na cidade/região com PIB
+
+9 - crescimento populacional
+
+10 - qtd industria por região
+
+11 - porcentagem de óbitos com nascimentos nas 10 cidades de maior desenvolvimento de PIB
+
+12 - Pega o começo da Pandemia
+
+13 - Taxa de desemprego
+
+14 - é possivel descobrir quantas pessoas deixaram de ser CLT de 2019 para 2020?
+
+15 - número de empresas que fecharam de 2019 para 2020
+
+16 - numero de nascimentos antes e depois da pandemia
+
+17 - numero de óbitos infantis antes e durante a pandemia
+
+18 - Balanço Comercial (?) por município/região - impor/expor
+
+19 - comparação entre as regiões com mais empresas X áreas plantadas -> PIB
+
+20 - 
+
+obs.: na hora de importar os dados informar nos parâmetros que está separado por ponto e virgula, e não virgula
