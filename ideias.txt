@@ -39,3 +39,5 @@
 20 - 
 
 obs.: na hora de importar os dados informar nos parâmetros que está separado por ponto e virgula, e não virgula
+
+df = pd.read_csv('BrStats.csv', sep = ';', low_memory=False)
