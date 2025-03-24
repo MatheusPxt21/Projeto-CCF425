@@ -41,3 +41,15 @@
 obs.: na hora de importar os dados informar nos parâmetros que está separado por ponto e virgula, e não virgula
 
 df = pd.read_csv('BrStats.csv', sep = ';', low_memory=False)
+
+____________________________________________________________________________________________________________________-
+Abordando a pandemia do COVID-19:
+1ª Pergunta: Qual foi a cidade com o maior número bruto de óbito infantil no período de 2019 a 2021 e qual foi a cidade com a menor razão entre natalidade/óbito infantil nesse mesmo período?
+
+2ª Pergunta: Qual a diferença do número total de empresas entre o período de 2016 e 2018 e entre 2019 e 2021? O que podemos concluir com esses dados?
+
+3ª Pergunta: Qual a soma total do maior valor de produção agrícola de cada cidade entre os anos de 2016 e 2018 e qual é o valor dessa mesma soma entre os anos de 2019 e 2021?
+
+4ª Pergunta: Durante os anos de 2019, 2020 e 2021, quais cidades tiveram a pior relação entre area plantada e area colhida? Qual a diferença desses valores para os anos de 2016, 2017 e 2018 para essas mesmas cidades?
+
+5ª Pergunta: Considerando as 10 cidades com maior produção pecuária entre os anos de 2016 e 2018, qual a diferença nessa produção para as mesmas cidades no período de 2019 e 2021? 
