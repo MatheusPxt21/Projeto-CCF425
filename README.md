@@ -9,11 +9,48 @@
 
 <h2>Perguntas a serem respondidas</h2>
 
+<p>Nessa seção apresentaremos algumas perguntas que foram elaboradas pelo grupo e serão analisadas no decorrer do Projeto.
+<p>Como explicitado na introdução, muitas dessas perguntas tentarão responder e encontrar uma correlação entre as características das cidades e o impacto que a pandemia de COVID-19 gerou nestas.
+<p>Além das perguntas voltadas a esta temática, algumas outras serão apresentadas, que representam mais algumas curiosidades dos integrantes do grupo, como algumas envolvendo as cidades-natal destes (Caratinga, Itaúna, Pará de Minas e Ubá, todas de Minas Gerais).
+
+
+1.   Qual cidade teve o maior número bruto de óbitos infantis e qual teve o maior crescimento populacional negativo infantil ,razão óbito/natalidade infantil ,durante a pandemia (2020-2021)?
+
+2.   Qual a diferença do número total de empresas entre o período pré-pandemia (2016 e 2019) e durante a pandemia (2020 e 2021)? O que podemos concluir com esses dados?
+
+3.   Qual a soma total do maior valor de produção agrícola de cada cidade entre os anos de 2016 e 2019 e qual é o valor dessa mesma soma entre os anos de 2020 e 2021 (Período pandêmico)?
+
+4.   Quais cidades tiveram a pior eficiência agrícola ,relação entre área plantada e colhida, durante a pandemia (2020-2021) e como isso se compara ao período pré-pandemia (2016-2019)?
+
+5.   Considerando as 10 cidades com maior produção pecuária entre os anos de 2016 e 2019 (Pré-pandemia), qual a diferença nessa produção para as mesmas cidades no período de 2020 e 2021(Pandemia)?
+
+6.   Qual foi o impacto da pandemia no PIB dos municípios em 2020?
+
+7.   Qual o impacto das receitas municipais na qualidade de vida? Podem ser encontradas relações entre receitas e taxa de mortalidade infantil?
+
+8.   Municípios com maior área plantada e área colhida geram maior Valor da produção agrícola?
+
+9.   Municípios que mais exportam são os mais desenvolvidos economicamente?
+
+10.   Qual foi o impacto da pandemia nas exportações e importações por região?
+
+11.   Qual foi o maior e o menor valor de PIB, importações e exportações nas cidades de Caratinga, Itaúna, Pará de Minas e Ubá durante a pandemia (2020-2021)?
+
+12.   Qual o resultado do dado 'death_by_totalCases' nas cidades-natal dos Integrantes do grupo? Isso pode ser relacionado ao PIB visto na pergunta anterior?
+
+13.   Levando em consideração a população dessas cidades-natal através do conjunto BrStats, qual a porcentagem da população foi infectada por COVID em cada ano?
+
+14.   Qual a quantidade de mortos pela pandemia nas 10 cidades de maior PIB? E nas 10 cidades com o menor PIB? Isso tem relação?
+
 <h2>Desenvolvimento</h2>
 
-<p>Por meio de reuniões realizadas com a equipe, utilizando o Google Colab como ferramenta.</p>
+<p>Por meio de reuniões realizadas com a equipe, utilizando o Google Colab como ferramenta de desenvolvimento e GoogleMeet e WhatsApp para comunicações, realizamos o desenvolvimento dessa primeira entrega do Projeto de Introdução à Ciência de Dados (CCF425).</p>
+<p>Nessa primeira entrega nos dividimos entre obtenção e tratamento inicial dos dados, organização e criação das perguntas</p>
 
 <h2>Conclusões</h2>
+
+<p>Os conjuntos de dados que temos acesso são bastante ricos, permitindo explorá-los de diferentes modos.</p>
+<p>Com o andamento do Projeto poderemos realizar muitas análises, visando responder essas perguntas iniciais que desenvolvemos.</p>
 
 <h2>Integrantes do Projeto</h2>
 
