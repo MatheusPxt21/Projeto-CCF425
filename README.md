@@ -7,6 +7,21 @@
   <p>Diante da pandemia global da Covid-19, que impactou todas as regiões do mundo, este estudo busca explorar como diferentes cidades brasileiras foram afetadas. Com base nos dados coletados, investigaremos se há correlação entre as características socioeconômicas das cidades e a severidade dos impactos causados pela pandemia, contribuindo para uma melhor compreensão dos fatores que influenciaram a propagação e os efeitos da doença no Brasil.
   <p>Os dados podem ser obtidos no link do Google Drive a seguir (devido o tamanho dos DataSets, até o presente momento não conseguimos realizar o upload destes no GitHub) - <a href="https://drive.google.com/drive/folders/1reVgUutym0oAZyLWJj-xaypdwteC4XuW?usp=drive_link">Clique Aqui</a></p>
 
+<h2>Divisão das Tarefas entre os Membros da Equipe</h2>
+<h3>Entrega 01:</h3>
+
+- Henrique Alves: Elaboração de algumas perguntas;
+- Marcos Biscotto: Elaboração de algumas perguntas e Análises Inicias;
+- Matheus Nogueira: Elaboração de algumas perguntas;
+- Matheus Peixoto: Obtenção dos Dados, Análises Iniciais e Organização do GitHub;
+
+<h3>Entrega 02:</h3>
+
+ - Henrique Alves: Elaboração de alguns gráficos;
+ - Marcos Biscotto: Reorganização de parte do Notebook conforme as observações passadas à equipe, Elaboração de alguns gráficos e Reformulação de Perguntas;
+ - Matheus Nogueira: Elaboração de alguns gráficos;
+ - Matheus Peixoto: Reorganização de parte do Notebook conforme as observações passadas à equipe e GitHub;
+
 <h2>Perguntas a serem respondidas</h2>
 
 <p>Nessa seção apresentaremos algumas perguntas que foram elaboradas pelo grupo e serão analisadas no decorrer do Projeto.
@@ -14,33 +29,33 @@
 <p>Além das perguntas voltadas a esta temática, algumas outras serão apresentadas, que representam mais algumas curiosidades dos integrantes do grupo, como algumas envolvendo as cidades-natal destes (Caratinga, Itaúna, Pará de Minas e Ubá, todas de Minas Gerais).
 
 
-1.   Qual cidade teve o maior número bruto de óbitos infantis e qual teve o maior crescimento populacional negativo infantil ,razão óbito/natalidade infantil ,durante a pandemia (2020-2021)?
+01.   Quais cidades registraram os maiores números absolutos de óbitos infantis e as maiores razões de óbito/nascimento infantil durante a pandemia (2020-2021)?
 
-2.   Qual a diferença do número total de empresas entre o período pré-pandemia (2016 e 2019) e durante a pandemia (2020 e 2021)? O que podemos concluir com esses dados?
+02.   Qual foi a variação no número total de empresas entre o período pré-pandemia (2016-2019) e o período pandêmico (2020-2021)? Que conclusões podemos extrair dessa análise?
 
-3.   Qual a soma total do maior valor de produção agrícola de cada cidade entre os anos de 2016 e 2019 e qual é o valor dessa mesma soma entre os anos de 2020 e 2021 (Período pandêmico)?
+03.   Qual a soma dos maiores valores de produção agrícola por cidade no período pré-pandêmico (2016-2019) comparado ao período pandêmico (2020-2021)?
 
-4.   Quais cidades tiveram a pior eficiência agrícola ,relação entre área plantada e colhida, durante a pandemia (2020-2021) e como isso se compara ao período pré-pandemia (2016-2019)?
+04.   Quais cidades apresentaram a menor eficiência agrícola (razão entre área colhida e área plantada) durante a pandemia (2020-2021) e como isso se compara ao período anterior (2016-2019)?
 
-5.   Considerando as 10 cidades com maior produção pecuária entre os anos de 2016 e 2019 (Pré-pandemia), qual a diferença nessa produção para as mesmas cidades no período de 2020 e 2021(Pandemia)?
+05.   Considerando as 10 cidades com maior produção pecuária no período pré-pandêmico, qual foi a variação na produção dessas cidades durante a pandemia?
 
-6.   Qual foi o impacto da pandemia no PIB dos municípios em 2020?
+06.   Como o crescimento do PIB dos municípios brasileiros entre 2018 e 2019 se comportou em relação a 2020 e 2021, período pandêmico?
 
-7.   Qual o impacto das receitas municipais na qualidade de vida? Podem ser encontradas relações entre receitas e taxa de mortalidade infantil?
+07.   Existe correlação entre receitas municipais e indicadores de qualidade de vida, como mortalidade infantil?
 
-8.   Municípios com maior área plantada e área colhida geram maior Valor da produção agrícola?
+08.   Há relação direta entre área plantada/colhida e valor total da produção agrícola?
 
-9.   Municípios que mais exportam são os mais desenvolvidos economicamente?
+09.   Municípios com maior volume de exportações apresentam melhores indicadores econômicos?
 
-10.   Qual foi o impacto da pandemia nas exportações e importações por região?
+10.   Qual foi o impacto da pandemia nos fluxos de importação e exportação por região?
 
-11.   Qual foi o maior e o menor valor de PIB, importações e exportações nas cidades de Caratinga, Itaúna, Pará de Minas e Ubá durante a pandemia (2020-2021)?
+11.   Quais foram os valores extremos (máximos e mínimos) de PIB, importações e exportações nas cidades de Caratinga, Itaúna, Pará de Minas e Ubá durante a pandemia (2020-2021)?
 
-12.   Qual o resultado do dado 'death_by_totalCases' nas cidades-natal dos Integrantes do grupo? Isso pode ser relacionado ao PIB visto na pergunta anterior?
+12.   Como se comparam as taxas de letalidade (deaths_by_totalCases) nas cidades-natal dos integrantes do grupo em relação aos seus PIBs?
 
-13.   Levando em consideração a população dessas cidades-natal através do conjunto BrStats, qual a porcentagem da população foi infectada por COVID em cada ano?
+13.   Qual porcentagem da população foi infectada por COVID-19 anualmente nas cidades-natal dos integrantes?
 
-14.   Qual a quantidade de mortos pela pandemia nas 10 cidades de maior PIB? E nas 10 cidades com o menor PIB? Isso tem relação?
+14.   Qual a mortalidade por COVID-19 nas 10 cidades com maior e menor PIB? Existe correlação entre PIB e mortalidade?
 
 <h2>Desenvolvimento</h2>
 
