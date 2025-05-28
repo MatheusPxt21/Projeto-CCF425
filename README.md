@@ -22,6 +22,13 @@
  - Matheus Nogueira: Elaboração de alguns gráficos;
  - Matheus Peixoto: Reorganização de parte do Notebook conforme as observações passadas à equipe e GitHub;
 
+<h3>Entrega 03:</h3>
+
+- Henrique Alves: Análises referente à terceira entrega
+- Marcos Biscotto: Melhoria da formatação do texto e correção do Markdown, reorganização da estrutura do notebook, melhoria na legibilidade e refatoração de alguns gráficos.
+- Matheus Nogueira: Análises referentes à terceira entrega
+- Matheus Peixoto: Organização do notebook, alguns testes pra análises dessa terceira entrega como inferências e outras estatísticas
+
 <h2>Perguntas a serem respondidas</h2>
 
 <p>Nessa seção apresentaremos algumas perguntas que foram elaboradas pelo grupo e serão analisadas no decorrer do Projeto.
