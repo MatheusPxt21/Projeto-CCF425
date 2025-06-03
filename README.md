@@ -29,6 +29,12 @@
 - Matheus Nogueira: Análises referentes à terceira entrega
 - Matheus Peixoto: Organização do notebook, alguns testes pra análises dessa terceira entrega como inferências e outras estatísticas
 
+<h3>Entrega 04: </h3>
+- Henrique Alves: - Análises referentes à quarta entrega
+- Marcos Biscotto: -
+- Matheus Nogueira: - Análises referentes à quarta entrega
+- Matheus Peixoto: Organização do notebook, correções relacionadas a um erro dos dados que prejudicou a análise na entrega 03 (escala de uma das colunas que vieram no dataset de COVID) e análises para a entrega 04
+
 <h2>Perguntas a serem respondidas</h2>
 
 <p>Nessa seção apresentaremos algumas perguntas que foram elaboradas pelo grupo e serão analisadas no decorrer do Projeto.
