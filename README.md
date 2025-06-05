@@ -31,10 +31,10 @@
 
 <h3>Entrega 04: </h3>
 
-- Henrique Alves: - Análises referentes à quarta entrega <br>
-- Marcos Biscotto: - <br>
-- Matheus Nogueira: - Análises referentes à quarta entrega<br>
-- Matheus Peixoto: Organização do notebook, correções relacionadas a um erro dos dados que prejudicou a análise na entrega 03 (escala de uma das colunas que vieram no dataset de COVID) e análises para a entrega 04 <br>
+- Henrique Alves: Análises referentes à quarta entrega <br>
+- Marcos Biscotto: Organização do notebook e análises referentes à quarta entrega <br>
+- Matheus Nogueira: Análises referentes à quarta entrega <br>
+- Matheus Peixoto: Completa revisão e reorganização do notebook entre terceira e quarta entrega; correções quanto ao tratamento de algumas colunas dos datasets extras referentes à COVID; "Análise da Relação entre População e Número de Nascimentos nas Cidades Brasileiras por meio de Regressão Linear" <br>
 
 <h2>Perguntas a serem respondidas</h2>
 
