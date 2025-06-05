@@ -38,38 +38,33 @@
 
 <h2>Perguntas a serem respondidas</h2>
 
-<p>Nessa seção apresentaremos algumas perguntas que foram elaboradas pelo grupo e serão analisadas no decorrer do Projeto.
-<p>Como explicitado na introdução, muitas dessas perguntas tentarão responder e encontrar uma correlação entre as características das cidades e o impacto que a pandemia de COVID-19 gerou nestas.
-<p>Além das perguntas voltadas a esta temática, algumas outras serão apresentadas, que representam mais algumas curiosidades dos integrantes do grupo, como algumas envolvendo as cidades-natal destes (Caratinga, Itaúna, Pará de Minas e Ubá, todas de Minas Gerais).
+Nessa seção apresentaremos algumas perguntas que foram elaboradas pelo grupo e serão analisadas no decorrer do Projeto.
 
+Como explicitado na introdução, algumas dessas perguntas tentarão responder e encontrar uma correlação entre as características das cidades e o impacto que a pandemia de COVID-19 gerou nestas.
 
-01.   Quais cidades registraram os maiores números absolutos de óbitos infantis e as maiores razões de óbito/nascimento infantil durante a pandemia (2020-2021)?
+Além das perguntas voltadas a esta temática, algumas outras serão apresentadas, buscando entender o cenário do Brasil, como alguns aspectos econômicos, por exemplo. Isto poderá ser útil para entender, mais ao final do projeto, como foi o impacto da pandemia na país.
 
-02.   Qual foi a variação no número total de empresas entre o período pré-pandemia (2016-2019) e o período pandêmico (2020-2021)? Que conclusões podemos extrair dessa análise?
+1 - Quais cidades registraram os maiores números absolutos de óbitos infantis e as maiores razões de óbito/nascimento infantil durante a pandemia (2020-2021)?
 
-03.   Qual a soma dos maiores valores de produção agrícola por cidade no período pré-pandêmico (2016-2019) comparado ao período pandêmico (2020-2021)?
+2 - Qual foi a variação no número total de empresas entre o período pré-pandemia (2018-2019) e o período pandêmico (2020-2021)? Que conclusões podemos extrair dessa análise?
 
-04.   Quais cidades apresentaram a menor eficiência agrícola (razão entre área colhida e área plantada) durante a pandemia (2020-2021) e como isso se compara ao período anterior (2016-2019)?
+3 - Qual a soma dos maiores valores de produção agrícola por cidade no período pré-pandêmico (2016-2019) comparado ao período pandêmico (2020-2021)?
 
-05.   Considerando as 10 cidades com maior produção pecuária no período pré-pandêmico, qual foi a variação na produção dessas cidades durante a pandemia?
+4 - Como o crescimento do PIB dos municípios brasileiros entre 2018 e 2019 se comportou em relação a 2019 e 2020, início do período pandêmico?
 
-06.   Como o crescimento do PIB dos municípios brasileiros entre 2018 e 2019 se comportou em relação a 2020 e 2021, período pandêmico?
+5 - Existe correlação entre receitas municipais e indicadores de qualidade de vida, como mortalidade infantil?
 
-07.   Existe correlação entre receitas municipais e indicadores de qualidade de vida, como mortalidade infantil?
+6 - Há relação direta entre área plantada/colhida e valor total da produção agrícola?
 
-08.   Há relação direta entre área plantada/colhida e valor total da produção agrícola?
+7 - Municípios com maior volume de exportações apresentam melhores indicadores econômicos?
 
-09.   Municípios com maior volume de exportações apresentam melhores indicadores econômicos?
+8 - Qual foi o impacto da pandemia nos fluxos de importação e exportação por região?
 
-10.   Qual foi o impacto da pandemia nos fluxos de importação e exportação por região?
+<h3>Observação sobre as Perguntas:</h3>
+No decorrer do projeto, algumas novas perguntas foram surgindo e, desse modo, algumas que anteriormente estavam listadas acima foram removidas. Todas as que permaceram acima estão sendo respondidas no capítulo seguinte.<br>
 
-11.   Quais foram os valores extremos (máximos e mínimos) de PIB, importações e exportações nas cidades de Caratinga, Itaúna, Pará de Minas e Ubá durante a pandemia (2020-2021)?
-
-12.   Como se comparam as taxas de letalidade (deaths_by_totalCases) nas cidades-natal dos integrantes do grupo em relação aos seus PIBs?
-
-13.   Qual porcentagem da população foi infectada por COVID-19 anualmente nas cidades-natal dos integrantes?
-
-14.   Qual a mortalidade por COVID-19 nas 10 cidades com maior e menor PIB? Existe correlação entre PIB e mortalidade?
+<h3>Outras Perguntas:</h3>
+Nos capítulos seguintes, referentes à Terceira, Quarta e, futuramente, Quinta Entrega estão listadas algumas perguntas que serão respondidas especificamente buscando utilzar os conhecimentos adquiridos sobre Associação de Dados, Regressão Linear e Aprendizado Supervisionado.
 
 <h2>Desenvolvimento</h2>
 
