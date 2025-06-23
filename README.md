@@ -36,6 +36,13 @@
 - Matheus Nogueira: Análises referentes à quarta entrega <br>
 - Matheus Peixoto: Completa revisão e reorganização do notebook entre terceira e quarta entrega; correções quanto ao tratamento de algumas colunas dos datasets extras referentes à COVID; "Análise da Relação entre População e Número de Nascimentos nas Cidades Brasileiras por meio de Regressão Linear" <br>
 
+<h3>Entrega 05: </h3>
+
+- Henrique Alves: Análises referentes à quinta entrega <br>
+- Marcos Biscotto: Análises referentes à quinta entrega <br>
+- Matheus Nogueira: Análises referentes à quinta entrega <br>
+- Matheus Peixoto: Organização do notebook e análises referentes à quinta entrega" <br>
+
 <h2>Perguntas a serem respondidas</h2>
 
 Nessa seção apresentaremos algumas perguntas que foram elaboradas pelo grupo e serão analisadas no decorrer do Projeto.
